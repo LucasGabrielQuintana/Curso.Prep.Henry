@@ -1,0 +1,17 @@
+Variable:
+Es una forma de guardar un valor para usarlo mas tarde.
+S
+trings:
+Es un texto guardado en una variable.
+
+Funciones:
+Son tipos de objetos, utilizados para trabajar con un conjunto de variables. 
+Los argumentos de las funciones son los nombres de las variables que se pueden usar dentro de la funcion.
+"Return" es para sacar los valores dentro de una funcion.
+
+Declaraciones 'if'
+la palabra clave if es un operador de control, lo que hace es verificar si algo es verdadero (true) y asi avanza con el codigo suministrado, o pasando si no lo es.
+
+Valores boleanos 
+Los valores boleanos son variables que solamente pueden tener dos opciones, verdaderos o falsos, en JS son true o false.
+
