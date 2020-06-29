@@ -1,0 +1,11 @@
+For
+Es un bucle que sirve para hacer tareas repetitivas. Desde un valor inicial hasta un valor final definido.
+
+&&
+Es una expresion para hacer que se cumplan dos condiciones, solo si se cumplen las dos se pasa a ejecutar el codigo que le sigue.
+
+||
+Es una expresion para hacer que se cumpla una de dos condiciones, con que se cumpla una de las dos ya se pasa a ejecutar el codigo que le sigue.
+
+!
+Es la expresion para negar una condicion, por ejemplo de True (verdadero) se puede usar !True lo que le convierte en False (falso).
