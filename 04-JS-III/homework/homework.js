@@ -95,8 +95,8 @@ function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
   // Tu código:
-  mayor = 0;
-  for(i=0; i<numeros.length; i++){
+  mayor = numeros[0];
+  for(i=1; i<numeros.length; i++){
     if( mayor < numeros[i]){
       mayor = numeros[i];
     }
@@ -109,14 +109,14 @@ function multiplicarArgumentos() {
   // Si no se pasan argumentos devuelve 0
   // Si se pasa un argumento, simplemente devuélvelo
   // Tu código:
-    if (arguments.length<1){
+  if (arguments.length<1){
     return 0;
-    }
-  producto = 1;
-    for (i=0; 1<arguments.length; i++){
-      producto = producto * arguments[i];
   }
-  return producto
+  m = 1;
+  for (i=0; i<arguments.length; i++){
+    m = m * arguments[i];
+  }
+  return m;
 }
 
 // No modificar nada debajo de esta línea
