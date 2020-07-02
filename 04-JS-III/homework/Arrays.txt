@@ -1,0 +1,2 @@
+Arrays
+Es un contenedor que tiene una cantidad de datos relacionados. Estos datos estan ordenados en posiciones fijas a los que se pueden acceder para conocer sus valores.
