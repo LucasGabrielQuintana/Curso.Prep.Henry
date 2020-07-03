@@ -1,0 +1,18 @@
+Objetos:
+Son similares a los arrays, solo que estos pueden contener mucha información sobre una sola cosa.
+
+Propiedades:
+Son contenidos por los elementos, ellos tienen valores asignados al mismo elemento que las contiene.
+
+Métodos:
+Son las funciones que estan guardadas dentro de los elementos, utilizados para establecer valores.
+
+Blucles "for...in":
+Es utilizado como el bucle "for" que usamos para los arrays, pero estos son para los objetos, iterando sobre cada par clave-valor del objeto.
+
+Notación de puntos vs notación de corchetes
+La notación por puntos se utiliza poniendo el nombre del objeto seguido de un punto
+Ejemplo   user.username
+Esta notacion llama a la propiedad username que esta en el objeto user.
+La notación de corchetes es como lo hacemos normalmente en un array, siguiendo el ejemplo anterior seria
+user[username]
