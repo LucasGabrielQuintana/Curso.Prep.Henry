@@ -1,0 +1,5 @@
+Prototype
+Son las funciones que comparten los objetos, para no sobrecargar la memoria, estos se guardan en un Prototype comun para cada objeto asi no estan escritas dentro de ellos, con lo que tambien se ahorra tiempo escribiendo.
+
+Constructors
+Es el método que crea un objeto, a partir de una clase.
