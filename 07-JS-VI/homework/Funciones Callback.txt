@@ -1,0 +1,2 @@
+Funciones Callback
+Callback es una funcion, que su argumento es otra funcion y esta funcion es realizada por el callback.
